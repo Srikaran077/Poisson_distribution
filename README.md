@@ -1,4 +1,7 @@
-# Fitting Poisson  distribution
+                                                                 Name:M.Srikaran
+                                                                 Reg no:212223040206
+
+# EX-2: Fitting Poisson  distribution
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
