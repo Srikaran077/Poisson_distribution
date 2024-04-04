@@ -1,6 +1,6 @@
 ```
-                                                                 Name:M.Srikaran
-                                                                 Reg no:212223040206
+                                                            Name:M.Srikaran
+                                                            Reg no:212223040206
 ```
 
 # EX-2: Fitting Poisson  distribution
